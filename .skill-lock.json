@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "skills": {
+    "bnbchain-mcp": {
+      "source": "bnb-chain/bnbchain-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/bnb-chain/bnbchain-skills.git",
+      "skillPath": "skills/bnbchain-mcp-skill/SKILL.md",
+      "skillFolderHash": "32fad0ac5ccacdaf2c0a43e3ae0d21757b641976",
+      "installedAt": "2026-03-04T03:44:22.954Z",
+      "updatedAt": "2026-03-04T03:44:22.954Z"
+    },
+    "crypto-market-rank": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/binance/binance-skills-hub.git",
+      "skillPath": "skills/binance-web3/crypto-market-rank/SKILL.md",
+      "skillFolderHash": "54c854b08f729757eb9aaea46f896517429289b6",
+      "installedAt": "2026-03-04T05:42:20.742Z",
+      "updatedAt": "2026-03-04T05:42:20.742Z"
+    },
+    "meme-rush": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/binance/binance-skills-hub.git",
+      "skillPath": "skills/binance-web3/meme-rush/SKILL.md",
+      "skillFolderHash": "af75e5be47dbdd00987a84b038e63dd14b6ae714",
+      "installedAt": "2026-03-04T05:42:22.667Z",
+      "updatedAt": "2026-03-04T05:42:22.667Z"
+    },
+    "query-address-info": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/binance/binance-skills-hub.git",
+      "skillPath": "skills/binance-web3/query-address-info/SKILL.md",
+      "skillFolderHash": "63653dc78cd3044c46168b20d7a17d90dc93fbe6",
+      "installedAt": "2026-03-04T05:42:24.710Z",
+      "updatedAt": "2026-03-04T05:42:24.710Z"
+    },
+    "query-token-audit": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/binance/binance-skills-hub.git",
+      "skillPath": "skills/binance-web3/query-token-audit/SKILL.md",
+      "skillFolderHash": "6a22bd8cdd67fd01988a99cc094e8d4db16d2798",
+      "installedAt": "2026-03-04T05:42:26.670Z",
+      "updatedAt": "2026-03-04T05:42:26.670Z"
+    },
+    "query-token-info": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/binance/binance-skills-hub.git",
+      "skillPath": "skills/binance-web3/query-token-info/SKILL.md",
+      "skillFolderHash": "fb8d0d859baaee6f49494bb522506096401877fb",
+      "installedAt": "2026-03-04T05:42:28.553Z",
+      "updatedAt": "2026-03-04T05:42:28.553Z"
+    },
+    "trading-signal": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/binance/binance-skills-hub.git",
+      "skillPath": "skills/binance-web3/trading-signal/SKILL.md",
+      "skillFolderHash": "96a8172072c5bdde0e6c1a4dd6f75f81e01f0c72",
+      "installedAt": "2026-03-04T05:42:30.495Z",
+      "updatedAt": "2026-03-04T05:42:30.495Z"
+    },
+    "okx-dex-market": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/okx/onchainos-skills.git",
+      "skillPath": "skills/okx-dex-market/SKILL.md",
+      "skillFolderHash": "b0d4e4e768e93a0aacc86b495a68f2fc1676dba1",
+      "installedAt": "2026-03-04T05:56:53.043Z",
+      "updatedAt": "2026-03-04T05:56:53.043Z"
+    },
+    "okx-dex-swap": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/okx/onchainos-skills.git",
+      "skillPath": "skills/okx-dex-swap/SKILL.md",
+      "skillFolderHash": "552fd8bc2a485f164e0d5ca1d27f94f43e5a3368",
+      "installedAt": "2026-03-04T05:56:53.051Z",
+      "updatedAt": "2026-03-04T05:56:53.051Z"
+    },
+    "okx-dex-token": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/okx/onchainos-skills.git",
+      "skillPath": "skills/okx-dex-token/SKILL.md",
+      "skillFolderHash": "90702552aecec7f52b69a0526ec6aa7dce024cce",
+      "installedAt": "2026-03-04T05:56:53.059Z",
+      "updatedAt": "2026-03-04T05:56:53.059Z"
+    },
+    "okx-onchain-gateway": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/okx/onchainos-skills.git",
+      "skillPath": "skills/okx-onchain-gateway/SKILL.md",
+      "skillFolderHash": "5644478d1ab2c7f1f5b3f1dc7e471887efa00ab9",
+      "installedAt": "2026-03-04T05:56:53.069Z",
+      "updatedAt": "2026-03-04T05:56:53.069Z"
+    },
+    "okx-wallet-portfolio": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/okx/onchainos-skills.git",
+      "skillPath": "skills/okx-wallet-portfolio/SKILL.md",
+      "skillFolderHash": "99762ea04abc8169eb1ad16e81a6109d65e66821",
+      "installedAt": "2026-03-04T05:56:53.078Z",
+      "updatedAt": "2026-03-04T05:56:53.078Z"
+    }
+  },
+  "dismissed": {}
+}

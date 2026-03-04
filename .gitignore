@@ -1,0 +1,13 @@
+# 机器相关 - 不同设备架构不兼容
+**/.venv/
+**/node_modules/
+**/__pycache__/
+**/*.pyc
+
+# 认证和本地状态 - 每台机器独立
+**/data/browser_state/
+**/data/auth_info.json
+**/.env
+
+# skills-lock.json 由 openclaw 管理，每台机器独立生成
+skills-lock.json

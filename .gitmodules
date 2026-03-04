@@ -1,0 +1,3 @@
+[submodule "skills/notebooklm"]
+	path = skills/notebooklm
+	url = https://github.com/PleasePrompto/notebooklm-skill
