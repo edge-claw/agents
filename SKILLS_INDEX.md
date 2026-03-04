@@ -266,7 +266,12 @@
 npx skills list          # 查看已安装 skills
 npx skills check         # 检查是否有更新
 npx skills add <来源> --skill <名称> -g -y   # 安装新 skill
-cat ~/.agents/SKILLS_INDEX.md   # 查看本速查表
+
+# 查看速查表（任意设备，无需登录）
+# https://github.com/edge-claw/agents/blob/master/SKILLS_INDEX.md
+
+# 更新速查表后同步到 GitHub
+cd ~/.agents && git add -A && git commit -m "update: skills index" && git push
 ```
 
 ## 全链路能力图
